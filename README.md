@@ -3,7 +3,7 @@
 <!-- ===== HEADER BANNER: Dark / Light ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=1e1b4b&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:8b5cf6&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 </picture>
 
@@ -190,7 +190,7 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 <!-- ===== FOOTER BANNER: Dark / Light ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a5b4fc,50:c7d2fe,100:e0e7ff&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:7c3aed,100:6d28d9&height=120&section=footer&animation=fadeIn" />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 </picture>
 
