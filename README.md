@@ -2,9 +2,9 @@
 
 <!-- ===== HEADER BANNER: Dark / Light ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=1e1b4b&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=1e1b4b&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sim%20Pengseang&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 </picture>
 
 <!-- ===== TYPING SVG: Dark / Light ===== -->
@@ -41,7 +41,7 @@
 ## ⚡ About Me
 
 ```yaml
-name: Seang Sim
+name: Sim Pengseang
 role: Full-Stack Developer → Aspiring DevOps Engineer
 location: Cambodia 🇰🇭
 currently_learning: [Docker, Jenkins, CI/CD, Linux, Cloud, Kubernetes]
