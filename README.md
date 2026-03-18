@@ -1,16 +1,22 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- ===== HEADER BANNER: Dark / Light ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0e7ff,50:c7d2fe,100:a5b4fc&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=1e1b4b&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+</picture>
 
-<!-- Animated typing effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Building+Full-Stack+Web+Apps;⚙️+Automating+DevOps+Pipelines;🐳+Containerizing+Everything+with+Docker;☁️+Exploring+Cloud+%26+Kubernetes;💡+Always+Learning+%2C+Always+Building" alt="Typing SVG" />
-</a>
+<!-- ===== TYPING SVG: Dark / Light ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&lines=🚀+Building+Full-Stack+Web+Apps;⚙️+Automating+DevOps+Pipelines;🐳+Containerizing+Everything+with+Docker;☁️+Exploring+Cloud+%26+Kubernetes;💡+Always+Learning%2C+Always+Building" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6d28d9&center=true&vCenter=true&repeat=true&width=620&lines=🚀+Building+Full-Stack+Web+Apps;⚙️+Automating+DevOps+Pipelines;🐳+Containerizing+Everything+with+Docker;☁️+Exploring+Cloud+%26+Kubernetes;💡+Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&lines=🚀+Building+Full-Stack+Web+Apps;⚙️+Automating+DevOps+Pipelines;🐳+Containerizing+Everything+with+Docker;☁️+Exploring+Cloud+%26+Kubernetes;💡+Always+Learning%2C+Always+Building" />
+</picture>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- ===== SOCIAL BADGES ===== -->
 <p>
   <a href="mailto:pengseangsim210@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -92,10 +98,28 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
+<!-- Stats Card: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&hide_border=true&count_private=true&bg_color=f5f3ff&title_color=6d28d9&icon_color=6d28d9&text_color=1e1b4b" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</picture>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
+<!-- Streak Card: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=your-github&hide_border=true&background=f5f3ff&ring=6d28d9&fire=dc2626&currStreakLabel=6d28d9&sideLabels=1e1b4b&dates=4b5563&sideNums=1e1b4b" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true" />
+</picture>
+
+<br/>
+
+<!-- Top Languages: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&hide_border=true&bg_color=f5f3ff&title_color=6d28d9&text_color=1e1b4b" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
@@ -104,7 +128,14 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 ## 🏆 GitHub Trophies
 
 <div align="center">
+
+<!-- Trophies: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?username=your-github&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=your-github&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
   <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</picture>
+
 </div>
 
 ---
@@ -112,7 +143,14 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" />
+
+<!-- Activity Graph: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&area_color=302b63" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=f5f3ff&color=6d28d9&line=6d28d9&point=1e1b4b&area=true&hide_border=true&area_color=c7d2fe" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" />
+</picture>
+
 </div>
 
 ---
@@ -123,11 +161,11 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 ✅ Docker & Docker Compose
 ✅ Jenkins CI/CD
 ✅ Git & GitHub Actions
-🔄 Kubernetes (In Progress)
-🔄 Cloud Platforms — AWS / GCP (In Progress)
-📋 Terraform & IaC (Planned)
-📋 Monitoring — Prometheus + Grafana (Planned)
-📋 Service Mesh — Istio (Planned)
+🔄 Kubernetes           (In Progress)
+🔄 Cloud Platforms      (In Progress — AWS / GCP)
+📋 Terraform & IaC      (Planned)
+📋 Monitoring           (Planned — Prometheus + Grafana)
+📋 Service Mesh         (Planned — Istio)
 ```
 
 ---
@@ -135,15 +173,26 @@ ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
 ## 🌟 Random Dev Quote
 
 <div align="center">
+
+<!-- Quote: Dark / Light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<!-- ===== FOOTER BANNER: Dark / Light ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a5b4fc,50:c7d2fe,100:e0e7ff&height=120&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+</picture>
 
 **⭐ Let's connect and build something amazing together! 🚀**
 
