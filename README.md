@@ -1,197 +1,150 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Seang Sim**
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Seang%20Sim&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<div style="display: flex; gap: 8px; justify-content: center; align-items: center; margin: 20px 0; flex-wrap: wrap;">
-  <div style="animation: pulse 2s infinite;">🎓</div>
-  <span style="font-size: 18px; font-weight: 600; background: linear-gradient(135deg, #3b82f6, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Full-Stack Development Student</span>
-</div>
+<!-- Animated typing effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Building+Full-Stack+Web+Apps;⚙️+Automating+DevOps+Pipelines;🐳+Containerizing+Everything+with+Docker;☁️+Exploring+Cloud+%26+Kubernetes;💡+Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-<div style="display: flex; gap: 8px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="animation: bounce 2s infinite; animation-delay: 0.2s;">🚀</div>
-  <span style="font-size: 18px; font-weight: 600; background: linear-gradient(135deg, #10b981, #06b6d4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Aspiring DevOps Engineer</span>
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="mailto:pengseangsim210@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/SimPengSeang">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://t.me/pengseang12">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=your-github&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-</div>
+## ⚡ About Me
 
-## 👨‍💻 About Me
-
-<div style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(139, 92, 246, 0.1)); padding: 20px; border-radius: 10px; border-left: 4px solid #3b82f6; margin: 20px 0; backdrop-filter: blur(10px);">
-
-🔭 **Currently working on:** Full-stack web applications and DevOps automation devlopment
-
-🌱 **Learning:** DevOps Engineering (Docker, Jenkins, CI/CD, Linux, Cloud)
-
-👯 **Open to collaborate on:** DevOps pipelines, Spring Boot applications, and React projects
-
-🤔 **Exploring:** Kubernetes, Cloud deployments, and advanced CI/CD strategies
-
-💬 **Ask me about:** Java, Spring Boot, React, Docker, Jenkins, Git, and Linux
-
-⚡ **Fun fact:** I enjoy automating everything instead of doing it manually!
-
-</div>
+```yaml
+name: Seang Sim
+role: Full-Stack Developer → Aspiring DevOps Engineer
+location: Cambodia 🇰🇭
+currently_learning: [Docker, Jenkins, CI/CD, Linux, Cloud, Kubernetes]
+open_to_collaborate: [DevOps Pipelines, Spring Boot Apps, React Projects]
+fun_fact: I automate everything instead of doing it manually 😄
+ask_me_about: [Java, Spring Boot, React, Docker, Jenkins, Git, Linux]
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #3b82f6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.6s ease-out;">
-    <span>📄</span> HTML
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #3b82f6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.7s ease-out;">
-    <span>🎨</span> CSS
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #3b82f6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.8s ease-out;">
-    <span>⚡</span> JavaScript
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #3b82f6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.9s ease-out;">
-    <span>⚛️</span> React
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #3b82f6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 1s ease-out;">
-    <span>▲</span> Next.js
-  </span>
-</div>
-
-### Backend
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #8b5cf6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.6s ease-out;">
-    <span>☕</span> Java
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #8b5cf6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.7s ease-out;">
-    <span>🍃</span> Spring Boot
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #8b5cf6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.8s ease-out;">
-    <span>🔗</span> REST API
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #8b5cf6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.9s ease-out;">
-    <span>🔐</span> JWT
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #8b5cf6; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 1s ease-out;">
-    <span>🗄️</span> PostgreSQL
-  </span>
-</div>
-
-### DevOps & Tools
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #10b981; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.6s ease-out;">
-    <span>🐳</span> Docker
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #10b981; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.7s ease-out;">
-    <span>📦</span> Docker Compose
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #10b981; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.8s ease-out;">
-    <span>⚙️</span> Jenkins
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #10b981; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 0.9s ease-out;">
-    <span>🔀</span> Git & GitHub
-  </span>
-  <span style="display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; background: #10b981; color: white; border-radius: 20px; font-size: 14px; font-weight: 500; animation: fadeInScale 1s ease-out;">
-    <span>🐧</span> Linux & Bash
-  </span>
-</div>
-
----
-
-## 📈 What I'm Working Toward
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 25px 0;">
-
-<div style="padding: 20px; background: linear-gradient(135deg, rgba(249, 115, 22, 0.1), rgba(249, 115, 22, 0.05)); border-radius: 10px; border: 1px solid rgba(249, 115, 22, 0.3); text-align: center; animation: slideInUp 0.8s ease-out; backdrop-filter: blur(10px);">
-  <h4 style="margin: 0; color: #f97316; font-size: 16px;">🎯 DevOps Engineer</h4>
-  <p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">Transitioning to DevOps</p>
-</div>
-
-<div style="padding: 20px; background: linear-gradient(135deg, rgba(249, 115, 22, 0.1), rgba(249, 115, 22, 0.05)); border-radius: 10px; border: 1px solid rgba(249, 115, 22, 0.3); text-align: center; animation: slideInUp 1s ease-out; backdrop-filter: blur(10px);">
-  <h4 style="margin: 0; color: #f97316; font-size: 16px;">⚙️ CI/CD Pipelines</h4>
-  <p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">Production-ready pipelines</p>
-</div>
-
-<div style="padding: 20px; background: linear-gradient(135deg, rgba(249, 115, 22, 0.1), rgba(249, 115, 22, 0.05)); border-radius: 10px; border: 1px solid rgba(249, 115, 22, 0.3); text-align: center; animation: slideInUp 1.2s ease-out; backdrop-filter: blur(10px);">
-  <h4 style="margin: 0; color: #f97316; font-size: 16px;">☁️ Cloud Deployments</h4>
-  <p style="margin: 8px 0 0 0; font-size: 13px; color: #666;">Containers & cloud platforms</p>
-</div>
-
-</div>
-
----
-
-## 📫 How to Reach Me
-
-<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin: 25px 0;">
-
-<a href="mailto:pengseangsim210@gmail.com" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: linear-gradient(135deg, #3b82f6, #1e40af); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: all 0.3s; transform: scale(1);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(59, 130, 246, 0.6)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-  📧 Email
-</a>
-
-<a href="https://github.com" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: linear-gradient(135deg, #1f2937, #111827); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: all 0.3s; transform: scale(1);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(31, 41, 55, 0.6)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-  💻 GitHub
-</a>
-
-<a href="https://facebook.com/SimPengSeang" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: linear-gradient(135deg, #0f6ec4, #0d47a1); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: all 0.3s; transform: scale(1);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(15, 110, 196, 0.6)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-  👥 Facebook
-</a>
-
-<a href="https://t.me/pengseang12" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 16px; background: linear-gradient(135deg, #0088cc, #006ba3); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: all 0.3s; transform: scale(1);" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 20px rgba(0, 136, 204, 0.6)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-  💬 Telegram
-</a>
-
-</div>
-
----
-
-<div style="margin-top: 40px; padding: 25px; background: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(139, 92, 246, 0.08)); border-radius: 12px; border: 1px solid rgba(59, 130, 246, 0.2); text-align: center; animation: fadeIn 1.5s ease-out; backdrop-filter: blur(10px);">
-
-**⭐ Always learning, building, and improving!**
-
-<p style="margin-top: 15px; font-size: 14px; opacity: 0.8;">
-Open to collaborating on interesting projects. Let's build something amazing together! 🚀
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### 🔭 Currently Exploring
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
+
 </div>
 
-<style>
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.2); }
-  }
-  
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  @keyframes fadeInScale {
-    0% { 
-      opacity: 0; 
-      transform: scale(0.8); 
-    }
-    100% { 
-      opacity: 1; 
-      transform: scale(1); 
-    }
-  }
-  
-  @keyframes slideInUp {
-    0% { 
-      opacity: 0; 
-      transform: translateY(20px); 
-    }
-    100% { 
-      opacity: 1; 
-      transform: translateY(0); 
-    }
-  }
-  
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 2025 DevOps Roadmap
+
+```
+✅ Docker & Docker Compose
+✅ Jenkins CI/CD
+✅ Git & GitHub Actions
+🔄 Kubernetes (In Progress)
+🔄 Cloud Platforms — AWS / GCP (In Progress)
+📋 Terraform & IaC (Planned)
+📋 Monitoring — Prometheus + Grafana (Planned)
+📋 Service Mesh — Istio (Planned)
+```
+
+---
+
+## 🌟 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+
+**⭐ Let's connect and build something amazing together! 🚀**
+
+</div>
