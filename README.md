@@ -2,16 +2,22 @@
 
 <!-- ===== HEADER BANNER: Dark / Light ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sim%20Pengseang&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:8b5cf6&height=220&section=header&text=Sim%20Pengseang&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sim%20Pengseang&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Dev%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=50&duration=1&pause=99999&color=FFFFFF&background=1a1040&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Sim+Pengseang" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=50&duration=1&pause=99999&color=FFFFFF&background=6d28d9&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Sim+Pengseang" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=50&duration=1&pause=99999&color=FFFFFF&background=1a1040&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Sim+Pengseang" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1040,100:1a1040&height=80&section=header&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:8b5cf6&height=80&section=header&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1040,100:1a1040&height=80&section=header&animation=fadeIn" />
 </picture>
 
 <!-- ===== TYPING SVG: Dark / Light ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes;Always+Learning%2C+Always+Building" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6d28d9&center=true&vCenter=true&repeat=true&width=650&lines=Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes;Always+Learning%2C+Always+Building" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes;Always+Learning%2C+Always+Building" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=Full-Stack+Developer+%7C+DevOps+Engineer;Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6d28d9&center=true&vCenter=true&repeat=true&width=650&lines=Full-Stack+Developer+%7C+DevOps+Engineer;Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=Full-Stack+Developer+%7C+DevOps+Engineer;Building+Full-Stack+Web+Apps;Automating+DevOps+Pipelines;Containerizing+Everything+with+Docker;Exploring+Cloud+%26+Kubernetes" />
 </picture>
 
 <br/>
