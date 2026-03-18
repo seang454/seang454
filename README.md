@@ -20,7 +20,7 @@
 
 <div style="background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(139, 92, 246, 0.1)); padding: 20px; border-radius: 10px; border-left: 4px solid #3b82f6; margin: 20px 0; backdrop-filter: blur(10px);">
 
-🔭 **Currently working on:** Full-stack web applications and DevOps automation
+🔭 **Currently working on:** Full-stack web applications and DevOps automation devlopment
 
 🌱 **Learning:** DevOps Engineering (Docker, Jenkins, CI/CD, Linux, Cloud)
 
